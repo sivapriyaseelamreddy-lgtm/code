@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sivapriyaseelamreddy-lgtm/code/tree/master/0001-two-sum) |
+| [0485-max-consecutive-ones](https://github.com/sivapriyaseelamreddy-lgtm/code/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
